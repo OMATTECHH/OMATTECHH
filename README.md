@@ -21,7 +21,7 @@
  
  ### ● most used languages - - - - - - - 
  <div style="display: inline_block"><br>
-  <img aling= " center " alt = "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+ <img aling= " center " alt = "java" src=  "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img aling= " center " alt = "javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img aling= " center " alt = "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img aling= " center " alt = "html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -32,4 +32,5 @@
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=594126&point=FFE088&area=true&hide_border=true)](https://github.com/OMATTECHH)
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mzcnp6dzBzZnVtNXpyaXU1NzEzM3p3YzhnYWM5YTg2MDlraHB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif
+<div style="display: inline_block"><br>
+ <img aling= " center " alt = "java" src=  "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mzcnp6dzBzZnVtNXpyaXU1NzEzM3p3YzhnYWM5YTg2MDlraHB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif" />
