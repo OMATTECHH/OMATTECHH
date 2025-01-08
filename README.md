@@ -10,8 +10,11 @@
  
  🧠 I am currently seeking new employment opportunities and would love to connect
  </p>
+ 
+  <div style="display: inline_block"><br>
+<img aling= " center " alt = "java" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"
 
- ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=OMATTECHH&show?=waving&color=FFE088&height=120&section=header)
+
      
 #
 
