@@ -32,12 +32,11 @@
  </div>
  
  #
-
 <div id="user-content-toc" align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header" 
-    alt="Header Image"
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
+    alt="Footer Image"
 />
 </div>
 
