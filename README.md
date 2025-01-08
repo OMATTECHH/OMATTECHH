@@ -42,10 +42,10 @@
   <h1> 𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙮𝙤𝙪𝙧 𝙖𝙩𝙩𝙚𝙣𝙩𝙞𝙤𝙣, 𝙨𝙚𝙚 𝙮𝙤𝙪 𝙡𝙖𝙩𝙚𝙧 </h1>
 </div>
 
-<div id="user-content-toc" align="center">
+<p align="center">
   <img 
     width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
     alt="Footer Image"
 />
-</div>
+</p>
