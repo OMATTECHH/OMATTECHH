@@ -41,8 +41,7 @@
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=35&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=35&fontColor=FFFFFF&descAlignY=20"
     alt="Footer Image"
   />
 </div>
-
