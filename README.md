@@ -1,10 +1,9 @@
 <div id="user-content-toc">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header"/>
   <ul align="center">
-    <summary><h1 style="display: inline-block"Welcome to my profile"</h1></summary>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header"/>
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-    
-<p>
+   
  🦆 I'm Mateus! An excellent developer from Brazil.
  
  👀 I am currently studying programming, at Harvard, Alura, Udemy, video courses and others...
