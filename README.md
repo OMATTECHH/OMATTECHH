@@ -39,10 +39,10 @@
  <img aling= " center " alt = "javascript" src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dndmtzZDZkamhxZTA2eTBmZmc1MTlzb2E3dmNqYXV5YnR5b2dtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oLAv7flwHyvNxOUMBj/giphy.gif" />
  </div>
 
-
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=35&fontColor=FFFFFF"
-    alt="Header Image"
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=35&fontColor=FFFFFF"
+    alt="Footer Image"
   />
 </div>
+O que foi ajustado:
