@@ -12,8 +12,8 @@
  </p>
  
   <div style="display: inline_block"><br>
-   <img width=100% src= " https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH={username}&theme=blue-green" />
-
+   <img width=100% src = " https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH={username}&theme=blue-green" />
+</DIV>
 
      
 #
