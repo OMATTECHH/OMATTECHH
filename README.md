@@ -41,7 +41,7 @@
 
 <div align="center">
   <h1>
-     Thank you for your attention, see you later... 
+     💼 Thank you for your attention, see you later... 
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
     alt="Footer Image"
