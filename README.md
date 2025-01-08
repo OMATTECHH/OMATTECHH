@@ -11,7 +11,7 @@
  🧠 I am currently seeking new employment opportunities and would love to connect
  </p>
 
- ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=OMATTECHH&show?type=waving&color=FFE088&height=120&section=header.icons=true&theme=gotham)
+ ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=OMATTECHH&show?icons=true&theme=type=waving&color=FFE088&height=120&section=header)
      
 #
 
