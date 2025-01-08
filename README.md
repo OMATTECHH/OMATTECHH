@@ -4,6 +4,7 @@
  <a href = "devteus.officeti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/otteufs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  ##
+ < A## MOST USED LANGUAGES.app/api?type=waving&color=FFE088&height=120&section=header/>
  <div style="display: inline_block"><br>
   <img aling= " center " alt = "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img aling= " center " alt = "java" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
