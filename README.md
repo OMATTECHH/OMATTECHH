@@ -33,13 +33,6 @@
  
  #
 
- <div style="display: flex; justify-content: center;">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
-    alt="Footer Image"
-/>
-</div>
-
 <div id="user-content-toc" align="center">
   <img 
     width="100%" 
