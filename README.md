@@ -35,7 +35,10 @@
 <div style="display: inline_block"><br>
  <img aling= " center " alt = "java" src=  "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mzcnp6dzBzZnVtNXpyaXU1NzEzM3p3YzhnYWM5YTg2MDlraHB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif" />
 
-<div id="user-content-toc">
-  <ul align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header"/>
+<div id="user-content-toc" align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
+    alt="Footer Image"
+/>
 </div>
