@@ -42,10 +42,9 @@
   <h1> 𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙮𝙤𝙪𝙧 𝙖𝙩𝙩𝙚𝙣𝙩𝙞𝙤𝙣, 𝙨𝙚𝙚 𝙮𝙤𝙪 𝙡𝙖𝙩𝙚𝙧 </h1>
 </div>
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <img 
-    width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
     alt="Footer Image"
 />
-</p>
+</div>
