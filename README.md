@@ -11,4 +11,5 @@
   <img aling= " center " alt = "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img aling= " center " alt = "html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img aling= " center " alt = "html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=594126&point=FFE088&area=true&hide_border=true)](https://github.com/OMATTECHH)
