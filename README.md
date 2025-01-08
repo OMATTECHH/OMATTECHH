@@ -40,11 +40,9 @@
  </div>
 
 
-<div id="user-content-toc" align="center">
+<div align="center">
   <img 
-    <h1> Thank you for your attention, see you later...<h1>
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=200&section=footer&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=25"
     alt="Footer Image"
 />
 </div>
