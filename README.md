@@ -5,6 +5,7 @@
  👀 I am currently studying programming, at Harvard, Alura, Udemy, video courses and others...
  🧠 I am currently seeking new employment opportunities and would love to connect
  <p><
+     
 ##
   
  <a href = "devteus.officeti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
