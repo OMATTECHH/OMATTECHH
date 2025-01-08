@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header"/>
-    <summary><h1 style="display: inline-block"> ● Welcome to my profile</h1></summary>
+    <summary><h1 style="display: inline-block"> ● Welcome to my profile ●</h1></summary>
 </div>
    
  🦆 I'm Mateus! An excellent developer from Brazil.
