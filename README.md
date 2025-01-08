@@ -1,6 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header"/>
-
+<p>
+ 🦆 I'm Mateus! An excellent developer from Brazil.
+ 👀 I am currently studying programming, at Harvard, Alura, Udemy, video courses and others...
+ 🧠 I am currently seeking new employment opportunities and would love to connect
  <a href = "devteus.officeti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/otteufs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  ##
