@@ -40,8 +40,9 @@
  </div>
 
 <div align="center">
+  <h1" Thank you for your attention, see you later.."h1>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=35&fontColor=FFFFFF&descAlignY=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
     alt="Footer Image"
   />
 </div>
