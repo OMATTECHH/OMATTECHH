@@ -23,7 +23,7 @@
  
  #
  
- ##𝗆𝗈𝗌𝗍 𝗎𝗌𝖾𝖽 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 
+ ## 𝗆𝗈𝗌𝗍 𝗎𝗌𝖾𝖽 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 
  <div style="display: inline_block"><br>
  <img aling= " center " alt = "java" src=  "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img aling= " center " alt = "javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
