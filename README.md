@@ -1,8 +1,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header"/>
+
 <p>
  🦆 I'm Mateus! An excellent developer from Brazil.
+ 
  👀 I am currently studying programming, at Harvard, Alura, Udemy, video courses and others...
+ 
  🧠 I am currently seeking new employment opportunities and would love to connect
  </p>
      
