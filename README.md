@@ -45,4 +45,4 @@
     alt="Footer Image"
   />
 </div>
-O que foi ajustado:
+
