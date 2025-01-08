@@ -12,7 +12,7 @@
  </p>
  
   <div style="display: inline_block"><br>
-<img aling= " center " alt = "java" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"
+<img aling= " center " alt = "java" src="https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH={username}&theme=BROWN-YELLOW"
 
 
      
