@@ -11,9 +11,8 @@
  🧠 I am currently seeking new employment opportunities and would love to connect
  </p>
  
-  <div style="display: inline_block"><br>
- <img width=100% src=" https://github-readme-stats.vercel.app/api?OMATTECHH={username}&theme=blue-green" />
-     
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+
 #
 
 ### 👤 contact - - - - - - -
