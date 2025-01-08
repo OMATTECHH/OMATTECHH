@@ -12,9 +12,7 @@
  </p>
  
   <div style="display: inline_block"><br>
-   <img width=100% src = " https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH={username}&theme=blue-green" />
-</DIV>
-
+ <img aling= " center " alt = "java" src=" https://github-readme-stats.vercel.app/api?OMATTECHH={username}&theme=blue-green" />
      
 #
 
