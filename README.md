@@ -11,6 +11,7 @@
  🧠 I am currently seeking new employment opportunities and would love to connect
  </p>
  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=594126&point=FFE088&area=true&hide_border=true)](https://github.com/OMATTECHH)
 #
 
 ### 👤 𝘤𝘰𝘯𝘵𝘢𝘤𝘵- - - - - - -
@@ -30,8 +31,6 @@
   <img aling= " center " alt = "html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img aling= " center " alt = "html5" src="https://img.shields.io/badge/MySQL-00000F?sty" />
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=594126&point=FFE088&area=true&hide_border=true)](https://github.com/OMATTECHH)
-
 <div style="display: inline_block"><br>
  <img aling= " center " alt = "java" src=  "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mzcnp6dzBzZnVtNXpyaXU1NzEzM3p3YzhnYWM5YTg2MDlraHB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif" />
 
