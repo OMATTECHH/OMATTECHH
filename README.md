@@ -32,4 +32,4 @@
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=594126&point=FFE088&area=true&hide_border=true)](https://github.com/OMATTECHH)
 
-![image](https://github.com/user-attachments/assets/d767adce-4c17-4ff6-a2ad-4158a3e6ff46)
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mzcnp6dzBzZnVtNXpyaXU1NzEzM3p3YzhnYWM5YTg2MDlraHB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif
