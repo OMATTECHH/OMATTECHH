@@ -42,7 +42,7 @@
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=200&section=footer&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=35&fontColor=FFFFFF&descAlignY=30"
-    alt="Footer Image"
-/>
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header&text=Thank%20you%20for%20your%20attention,%20see%20you%20later&fontSize=35&fontColor=FFFFFF"
+    alt="Header Image"
+  />
 </div>
