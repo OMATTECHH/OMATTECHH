@@ -46,13 +46,12 @@
   <h1>
      💼 Thank you for your attention, see you later... 
   
+  
 <div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img id="visitor-counter" align="center" src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" />
-  </p> 
-  <br>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" /></p> 
+<br></div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
     alt="Footer Image"
