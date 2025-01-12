@@ -53,8 +53,6 @@
     <img id="visitor-counter" align="center" src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" />
   </p> 
   <br>
-</div>
-
 <style>
   #visitor-counter {
     filter: invert(71%) sepia(90%) saturate(569%) hue-rotate(10deg) brightness(106%) contrast(100%);
