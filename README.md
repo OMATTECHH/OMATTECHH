@@ -45,13 +45,14 @@
 <div align="center">
   <h1>
      💼 Thank you for your attention, see you later... 
-  <img 
+  
    
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div>
- src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer" 
     alt="Footer Image"
   />
 </div>
