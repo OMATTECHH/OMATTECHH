@@ -37,7 +37,8 @@
 
  
  #
-
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
  <div id="user-content-toc" align="center">
  <img aling= " center " alt = "javascript" src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dndmtzZDZkamhxZTA2eTBmZmc1MTlzb2E3dmNqYXV5YnR5b2dtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oLAv7flwHyvNxOUMBj/giphy.gif" />
