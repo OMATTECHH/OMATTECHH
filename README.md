@@ -19,6 +19,7 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px;">
 
   <div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 50px;">
 
   <!-- Contato -->
   <div align="left">
@@ -36,24 +37,15 @@
     </a>
   </div>
 
-  <!-- Divisória -->
-  <div style="border-left: 2px solid #ccc; height: auto;"></div>
-
   <!-- Linguagens -->
   <div align="left">
     <h3>🎓 𝗆𝗈𝗌𝗍 𝗎𝗌𝖾𝖽 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌</h3>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <br>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <br>
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <br>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <br>
     <img align="center" alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <br>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </div>
 
