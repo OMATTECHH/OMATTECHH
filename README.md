@@ -15,7 +15,7 @@
 
 <!--CONTATOS-->
 <div align="center">  
-  <h1>CONTACT</h1>
+  <h3>CONTACT</h3>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
