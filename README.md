@@ -12,10 +12,8 @@
  
  🧠 I am currently seeking new employment opportunities and would love to connect
  </p>
- 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OMATTECHH&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" OMATTECHH github stats"/> 
 
+ 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=594126&point=FFE088&area=true&hide_border=true)](https://github.com/OMATTECHH)
 #
 <div id="user-content-toc">
