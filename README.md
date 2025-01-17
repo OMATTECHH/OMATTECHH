@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗦𝗘𝗘+𝗠𝗬+𝗦𝗧𝗔𝗧𝗜𝗦𝗧𝗜𝗖𝗦+𝗕𝗘𝗟𝗢𝗪)](https://git.io/typing-svg)
 
 <!-- GitHub Stats -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=FFE088&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=FFE088&point=FFE088c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Linguagens mais usadas -->
 
