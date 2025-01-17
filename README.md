@@ -4,7 +4,7 @@
 </div>
     
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Mateus+Monteiro+Ramos)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=I+AM+DEVELOPER+FULLSTACK)](https://git.io/typing-svg)
+ 
  
  🦆 I'm Mateus! An excellent developer from Brazil.
  
