@@ -13,6 +13,8 @@
 
 ☕ - I have a course at Harvard University online in artificial intelligence (basic)
 
+#
+
 <!-- TITULO-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗦𝗘𝗘+𝗠𝗬+𝗦𝗧𝗔𝗧𝗜𝗦𝗧𝗜𝗖𝗦+𝗕𝗘𝗟𝗢𝗪)](https://git.io/typing-svg)
 
