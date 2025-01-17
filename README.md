@@ -20,7 +20,7 @@
 [![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)](https://github.com/seu-username)
 
 <!-- Linguagens mais usadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH=seu-username&layout=compact&theme=radical)](https://github.com/OMATTECHH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH=OMATTECHH&layout=compact&theme=radical)](https://github.com/OMATTECHH)
 
 
 <!-- ONDAS-->
