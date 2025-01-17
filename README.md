@@ -23,14 +23,9 @@
 
 <!-- CONTADOR-->
 <div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);" />
-  </p> 
-  <br>
-</div>
-
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" /></p> 
+<br></div>
 
 <!-- ONDAS-->
 <div id="user-content-toc">
