@@ -17,10 +17,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗦𝗘𝗘+𝗠𝗬+𝗦𝗧𝗔𝗧𝗜𝗦𝗧𝗜𝗖𝗦+𝗕𝗘𝗟𝗢𝗪)](https://git.io/typing-svg)
 
 <!-- GitHub Stats -->
-[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?OMATTECH=OMATTECH&show_icons=true&theme=radical)]([https://github.com/OMATTECH](https://github.com/OMATTECHH))
+[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?OMATTECH=OMATTECH&show_icons=true&theme=radical)]((https://github.com/OMATTECHH))
 
 <!-- Linguagens mais usadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH=OMATTECHH&layout=compact&theme=radical)]([https://github.com/OMATTECHH](https://github.com/OMATTECHH))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OMATTECHH=OMATTECHH&layout=compact&theme=radical)]((https://github.com/OMATTECHH))
 
 
 <!-- ONDAS-->
