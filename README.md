@@ -3,16 +3,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=header"/>
 </div>
     
-  ![Typing SVG](./typing.svg) <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" style="background: #000;">
-  <text x="50%" y="40%" fill="#ffffff" font-size="35" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">
-    HELLO, MY NAME IS Mateus Monteiro Ramos
-  </text>
-  <text x="50%" y="70%" fill="#ffffff" font-size="35" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">
-    I AM A FULLSTACK DEVELOPER
-  </text>
-</svg>
-
-
+ ![Typing SVG](./typing.svg)
  
  🦆 I'm Mateus! An excellent developer from Brazil.
  
