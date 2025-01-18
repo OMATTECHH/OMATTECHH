@@ -66,8 +66,11 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" /></p> 
 <br></div>
-
-<!-- ONDAS-->
+<!-- IMAGEM-->
+<div align="center"> 
+  ![GitHub Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlzd2pldGUyM2pteG83eWo5a2FmZDFzZTByb3dmOHN3OXhhYmMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif)
+</div>
+<!-- ONDAS-->)
 <div id="user-content-toc">
   <ul align="center">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE088&height=120&section=footer"/>
