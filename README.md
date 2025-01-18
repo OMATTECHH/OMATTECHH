@@ -64,6 +64,8 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlzd2pldGUyM2pteG83eWo5a2FmZDFzZTByb3dmOHN3OXhhYmMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" alt="Imagem">
 </div>
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗧𝗛𝗔𝗡𝗞+𝗬𝗢𝗨+𝗙𝗢𝗥+𝗩𝗜𝗦𝗜𝗧𝗜𝗡𝗚+𝗠𝗬+𝗣𝗥𝗢𝗙𝗜𝗟𝗘,+𝗜+𝗛𝗢𝗣𝗘+𝗬𝗢𝗨+𝗟𝗜𝗞𝗘𝗗+𝗜𝗧,+𝗦𝗘𝗘+𝗢𝗨+𝗦𝗢𝗢𝗡...)](https://git.io/typing-svg)
 
 
