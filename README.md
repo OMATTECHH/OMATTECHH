@@ -59,16 +59,19 @@
 <!-- GitHub Stats -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OMATTECHH&bg_color=000000&color=FFE088&line=FFE088&point=FFE088c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- IMAGEM-->
+<div align="center">  
+<p align="left">
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlzd2pldGUyM2pteG83eWo5a2FmZDFzZTByb3dmOHN3OXhhYmMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" alt="Imagem">
+</p>
+</div>
+
 <!-- CONTADOR-->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" /></p> 
 <br></div>
 
-<!-- IMAGEM-->
-<p align="left">
-  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlzd2pldGUyM2pteG83eWo5a2FmZDFzZTByb3dmOHN3OXhhYmMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" alt="Imagem">
-</p>
 
 <!-- ONDAS-->)
 <div id="user-content-toc">
