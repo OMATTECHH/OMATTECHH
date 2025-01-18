@@ -66,7 +66,9 @@
 
 
 
+<br><br><br> <!-- Adiciona espaçamento acima -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗧𝗛𝗔𝗡𝗞+𝗬𝗢𝗨+𝗙𝗢𝗥+𝗩𝗜𝗦𝗜𝗧𝗜𝗡𝗚+𝗠𝗬+𝗣𝗥𝗢𝗙𝗜𝗟𝗘,+𝗜+𝗛𝗢𝗣𝗘+𝗬𝗢𝗨+𝗟𝗜𝗞𝗘𝗗+𝗜𝗧,+𝗦𝗘𝗘+𝗢𝗨+𝗦𝗢𝗢𝗡...)](https://git.io/typing-svg)
+
 
 
 <!-- CONTADOR-->
