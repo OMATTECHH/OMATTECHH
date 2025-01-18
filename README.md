@@ -66,9 +66,9 @@
 <br></div>
 
 <!-- IMAGEM-->
-<div align="center"> 
- ![GitHub Animation]([https://media.giphy.com/media/26xBOYt7w8sniVKe0/giphy.gif]
-</div>
+<p align="left">
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlzd2pldGUyM2pteG83eWo5a2FmZDFzZTByb3dmOHN3OXhhYmMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" alt="Imagem">
+</p>
 
 <!-- ONDAS-->)
 <div id="user-content-toc">
