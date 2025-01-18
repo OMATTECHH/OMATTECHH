@@ -37,6 +37,7 @@
    <img align="center" alt="MATH-C++"height="30" width="80" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white.svg">
    <img align="center" alt="MATH-C++"height="30" width="80" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white.svg">
 </div>
+
 #
 
 <!-- TITULO-->
