@@ -51,7 +51,7 @@
 
 
 <br><br><br> <!-- Adiciona espaçamento acima -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile,+please+contact+me+if+you+are+interested)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile)](https://git.io/typing-svg)
 
 
 
