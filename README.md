@@ -7,11 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗛𝗘𝗟𝗟𝗢+𝗠𝗬+𝗡𝗔𝗠𝗘+𝗜𝗦+𝗠𝗮𝘁𝗲𝘂𝘀+𝗠𝗼𝗻𝘁𝗲𝗶𝗿𝗼+𝗥𝗮𝗺𝗼𝘀)](https://git.io/typing-svg)
 
 <!-- INFOMRAÇÕES-->
-🥥 - Full stack developer with over 20 certified languages.
-
-☁ -  always showing what I know best with excellence
-
-☕ - I have a course at Harvard University online in artificial intelligence (basic)
+- 💻 I'm a passionate **Full Stack Developer** who loves building creative and impactful solutions
+  
+- 🎓 Completed **10 professional courses**, including **2 from Harvard University**
+  
+- 🌐 Fluent in **3 languages**: Spanish 🇪🇸, English 🇬🇧, and French 🇫🇷
 
 <!--CONTATOS-->
 <div align="center">  
