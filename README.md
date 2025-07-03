@@ -16,7 +16,6 @@
 <!-- CONTATOS -->
 <div align="center">  
   <h2> 💼 CONTACT</h2>
-
   ### 🌱email: devteus.officeti@gmail.com
 
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346" target="_blank">
