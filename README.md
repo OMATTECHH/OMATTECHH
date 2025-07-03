@@ -9,9 +9,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗛𝗘𝗟𝗟𝗢+𝗠𝗬+𝗡𝗔𝗠𝗘+𝗜𝗦+𝗠𝗮𝘁𝗲𝘂𝘀+𝗠𝗼𝗻𝘁𝗲𝗶𝗿𝗼+𝗥𝗮𝗺𝗼𝘀)](https://git.io/typing-svg)
 
 <!-- INFORMAÇÕES -->
-- 💻 I'm a passionate **Full Stack Developer** who loves building creative and impactful solutions  
-- 🎓 Completed **10 professional courses**, including **2 from Harvard University**  
-- 🌐 Fluent in **3 languages**: Spanish 🇪🇸, English 🇬🇧, and French 🇫🇷
+- 💻 I'm a full stack developer, showing my best in any situation
+- 🎓 completion of more than 10 courses, two at Harvard, and graphic designer
+- 🌐 I am a polyglot, and I speak six languages, with an intermediate level
 
 <!-- CONTATOS -->
 <div align="center">  
