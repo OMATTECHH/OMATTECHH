@@ -16,7 +16,7 @@
 <!--CONTATOS-->
 <div align="center">  
   <h3> 💼 contact</h3>
-  <a href="https://www.linkedin.com/in/mateus-monteiro-ramos-787874346/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-monteiro-787874346" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.instagram.com/otteusz/style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
