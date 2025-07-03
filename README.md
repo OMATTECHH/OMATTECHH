@@ -15,7 +15,7 @@
 
 <!-- CONTATOS -->
 <div align="center">  
-  <h3> 💼 CONTACT</h3>
+  <h2> 💼 CONTACT</h2>
 
   ### 🌱email: devteus.officeti@gmail.com
 
