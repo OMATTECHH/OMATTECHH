@@ -24,12 +24,6 @@
   <a href="https://www.instagram.com/otteusz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
-  <a href="mailto:devteus.officeti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-A8E6CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
 #
 
 <!-- TÍTULO -->
