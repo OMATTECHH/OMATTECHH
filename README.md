@@ -22,7 +22,8 @@
   <a href="https://www.instagram.com/otteusz/style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailt:devteus.officeti@gmail.com" target="_blank">
+  <a href=[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devteus.officeti@email.com)
+>
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
