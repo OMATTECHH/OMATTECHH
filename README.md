@@ -8,10 +8,17 @@
 <!-- NOME -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=𝗛𝗘𝗟𝗟𝗢+𝗠𝗬+𝗡𝗔𝗠𝗘+𝗜𝗦+𝗠𝗮𝘁𝗲𝘂𝘀+𝗠𝗼𝗻𝘁𝗲𝗶𝗿𝗼+𝗥𝗮𝗺𝗼𝘀)](https://git.io/typing-svg)
 
-<!-- INFORMAÇÕES -->
-- 💻 I'm a full stack developer, showing my best in any situation
-- 🎓 Completion of more than 10 courses, two at Harvard, and graphic designer
-- 🌐 I am a polyglot, and I speak six languages, with an intermediate level
+<!-- SOBRE MIM -->
+<div align="center">
+  <h2>🔎 About Me</h2>
+</div>
+
+- 💻 **Full Stack Developer** passionate about solving problems and delivering clean, scalable code.
+- 🎓 **Education:** Completed over 10 professional courses, including two at Harvard, in programming and design.
+- 🖌️ **Design:** Graphic designer with advanced skills in Adobe Photoshop, Illustrator, and Figma.
+- 🌐 **Languages:** Polyglot speaking 6 languages (Portuguese, English, Spanish, Italian, French, Japanese) at intermediate or above level.
+- 🔨 **Technologies:** JavaScript, Python, Java, Go, HTML, CSS, React, Node.js, Git, SQL.
+- 🏆 **Goals:** Build innovative projects that make a difference and keep improving as a developer.
 
 <!-- CONTATO -->
 <div align="center">  
@@ -21,13 +28,14 @@
   <a href="mailto:devteus.officeti@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-devteus.officeti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+
   <br><br>
 
   <a href="https://www.linkedin.com/in/mateus-monteiro-787874346" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <br><br>
+
+  &nbsp;&nbsp;
 
   <a href="https://www.instagram.com/otteusz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
