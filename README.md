@@ -26,7 +26,7 @@
   <br>
 
   <a href="mailto:devteus.officeti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-devteus.officeti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-devteus.officeti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"</img>
   </a>
 
   <br><br>
