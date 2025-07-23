@@ -67,14 +67,6 @@
 <!-- AGRADECIMENTO -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile)](https://git.io/typing-svg)
 
-<!-- VISITANTES -->
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img src="https://profile-counter.glitch.me/{OMATTECHH}/count.svg" /></p> 
-  <br>
-</div>
-
 <!-- ONDAS RODAPÉ -->
 <div id="user-content-toc">
   <ul align="center">
