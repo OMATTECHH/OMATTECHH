@@ -6,31 +6,69 @@
 </div>
 
 <!-- NOME -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+MATEUS+MONTEIRO+RAMOS;FULL+STACK+DEVELOPER+|+CREATOR+OF+SOLUTIONS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+MATEUS+MONTEIRO+RAMOS;FULL+STACK+DEVELOPER+|+ARCHITECT+OF+SOLUTIONS)](https://git.io/typing-svg)
 
 <!-- SOBRE MIM -->
 <div align="center">
   <h2>🧠 About Me</h2>
 </div>
 
-💡 **I’m a 17-year-old Full Stack Developer** passionate about building high-quality projects with strong architecture, performance, and purpose.  
-Even without a formal degree, I’ve dedicated myself to **deep learning through courses, projects, and constant practice**, achieving professional-level results.
+💡 **I’m Mateus Monteiro Ramos, a 17-year-old Full Stack Developer** with a deep passion for **software architecture, clean code, and strategic project planning**.  
+Since I was 15, I’ve been immersed in the tech world — constantly learning, creating, and pushing my own limits to deliver professional-level results.
 
-- 💻 **Full Stack Developer** focused on scalable and maintainable architectures.  
-- 🎓 **Education:** Over **10 professional certifications**, including **two from Harvard**.  
-- 🧩 **Design Skills:** Advanced in **Figma**, **Photoshop**, and **Illustrator**.  
-- 🌍 **Languages:** Portuguese (native), English, Spanish, and French.  
-- ⚙️ **Technologies:** JavaScript, TypeScript, Python, Java, Go, React, Node.js, SQL, Git.  
-- 🧱 **Mindset:** Logical, creative, and detail-oriented — I believe architecture and clarity are the foundation of great code.  
-- 🚀 **Goal:** Build impactful SaaS products and innovative digital solutions that truly matter.
+I don’t just code to make things *work* — I code to make them **last**.  
+Before writing a single line, I design the entire structure in **Figma**, define the **architecture**, and ensure every step is **logical, organized, and efficient**.
 
 ---
 
-<!-- CONTATO -->
-<div align="center">  
-  <h2>📬 Contact</h2>
-  <br>
+### 🚀 My Vision
 
+> “A good programmer doesn’t say ‘I’ll make it work’.  
+> A great programmer says ‘Let’s architect it right before we start coding.’”
+
+I build with purpose, clarity, and precision — because **organization and architecture are the backbone of reliable software**.  
+My goal is to **grow together with companies that value structure, innovation, and excellence**.
+
+---
+
+### ⚙️ Tech Stack & Skills
+
+🧩 **Frontend:** React, Sass, SCSS, Figma, UI/UX Design, Responsive Interfaces  
+🧱 **Backend:** Node.js, Java, Go, Python, C#, Docker  
+📦 **Databases & Tools:** SQL, Git, GitHub, Docker, TypeScript  
+🔐 **Cybersecurity & Hacking:** Certified in ethical hacking and hardware cybersecurity (Hardware Online)  
+🧠 **AI & Automation:** Python for AI and system integration  
+🎨 **Design Tools:** Figma, Photoshop, Illustrator  
+🧰 **Other Skills:** Project architecture, system planning, and client-focused development flow  
+
+---
+
+### 🌍 Languages
+
+- 🇧🇷 **Portuguese:** Native  
+- 🇺🇸 **English:** Fluent  
+- 🇪🇸 **Spanish:** Fluent  
+- 🇫🇷 **French:** Fluent  
+
+---
+
+### 🧭 Philosophy & Workflow
+
+I think like a **tech lead** — structure before action.  
+Every project I touch follows a clear path:
+
+1. Define goals and architecture in Figma and documentation  
+2. Organize roles, responsibilities, and deliverables  
+3. Develop clean, scalable, and error-free systems  
+4. Deliver with precision and strong UI/UX focus  
+
+I don’t aim to “just deliver code” — I aim to deliver **organized, functional, and scalable systems** that make sense from day one.
+
+---
+
+### 📬 Contact
+
+<div align="center">  
   <a href="mailto:devteus.officeti@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-devteus.officeti@gmail.com-FFA559?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
