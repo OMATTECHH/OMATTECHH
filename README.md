@@ -106,7 +106,7 @@ I don’t aim to “just deliver code” — I aim to deliver **organized, funct
 
 <!-- GIF -->
 <div align="center">  
-  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW02bmM5Z2lsOTRkMGtxZW5ybmc0b29odzl4bWxtN2NiYmI1OGpwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IeSXccYMz3K4U/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNoczBxMjRvNWE0MGNybmVoZnFnOHdsZnNlb2o4MHU2YXIzMjY4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif)" alt="Imagem" width="480">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNoczBxMjRvNWE0MGNybmVoZnFnOHdsZnNlb2o4MHU2YXIzMjY4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="Imagem" width="480" loading="lazy">
 </div>
 
 ---
