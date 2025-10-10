@@ -106,7 +106,8 @@ I don’t aim to “just deliver code” — I aim to deliver **organized, funct
 
 <!-- GIF -->
 <div align="center">  
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNoczBxMjRvNWE0MGNybmVoZnFnOHdsZnNlb2o4MHU2YXIzMjY4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="Imagem" width="480" loading="lazy">
+  <img src="![eugene-golovesov-BUn1-xzbxc0-unsplash](https://github.com/user-attachments/assets/b850152a-032e-4e7f-9a21-cc1442bb8376)
+" alt="Imagem" width="480" loading="lazy">
 </div>
 
 ---
