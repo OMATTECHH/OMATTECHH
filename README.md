@@ -33,12 +33,9 @@ My goal is to **grow together with companies that value structure, innovation, a
 
 ### ⚙️ Tech Stack & Skills
 
-🧩 **Frontend:** React, Sass, SCSS, Figma, UI/UX Design, Responsive Interfaces  
-🧱 **Backend:** Node.js, Java, Go, Python, C#, Docker  
-📦 **Databases & Tools:** SQL, Git, GitHub, Docker, TypeScript  
-🔐 **Cybersecurity & Hacking:** Certified in ethical hacking and hardware cybersecurity (Hardware Online)  
-🧠 **AI & Automation:** Python for AI and system integration  
-🎨 **Design Tools:** Figma, Photoshop, Illustrator  
+🧩 **Frontend:** React, Figma, UI/UX, Design, html, css
+🧱 **Backend:**Java, Go, Python, javaScript, typeScript 
+📦 **Databases & Tools:** SQL, Git, GitHub, Docker 
 🧰 **Other Skills:** Project architecture, system planning, and client-focused development flow  
 
 ---
@@ -46,9 +43,7 @@ My goal is to **grow together with companies that value structure, innovation, a
 ### 🌍 Languages
 
 - 🇧🇷 **Portuguese:** Native  
-- 🇺🇸 **English:** Fluent  
-- 🇪🇸 **Spanish:** Fluent  
-- 🇫🇷 **French:** Fluent  
+- 🇺🇸 **English:** intermediary
 
 ---
 
